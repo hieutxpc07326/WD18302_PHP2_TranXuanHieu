@@ -25,7 +25,6 @@
   </style>
 </head>
 <body>
-
 <div class="container">
   <table class="table">
     <thead class="thead-light">
